@@ -15,7 +15,7 @@ export class Random implements INodeType {
     icon: 'file:random-icon.svg',
     group: ['transform'],
     version: 1,
-    description: 'True Random Number Generator using Random.org',
+    description: 'Gerando número aleatório com Random.org',
     defaults: {
       name: 'Random',
       color: '#00AAFF',
