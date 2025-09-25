@@ -16,6 +16,19 @@ Instale os seguintes itens na sua máquina de desenvolvimento:
   ```
   npm install n8n -g
   ```
+## Configuração do ambiente
+
+Crie um arquivo .env na raiz do projeto com essas variáveis:
+
+ ```
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+DB_POSTGRESDB_DATABASE=
+DB_POSTGRESDB_USER=
+DB_POSTGRESDB_PASSWORD=
+
+ ```
 
 ## Usando esse repositório
 
